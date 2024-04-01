@@ -1,0 +1,7 @@
+train: /data0/fqy/Merge/VOC/data/train.txt
+#val: /home/fqy/yolo/yolov5-6.1/data/val.txt
+test: /data0/fqy/Merge/VOC/data/test.txt
+# number of classes
+nc: 2
+# class names
+names: ['defect','insulator']
